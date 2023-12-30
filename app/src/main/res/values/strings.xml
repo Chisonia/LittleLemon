@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Little Lemon</string>
+    <string name="title">Little Lemon</string>
+    <string name="chicago">Chicago</string>
+    <string name="order">Order Take Away</string>
+    <string name="little">LITTLE</string>
+    <string name="lemon">LEMON</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+</resources>
